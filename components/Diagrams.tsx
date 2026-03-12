@@ -402,7 +402,7 @@ export const CaseStudyDetailed: React.FC = () => {
                             <Users size={32} />
                         </div>
                     </div>
-                    <div className="text-4xl font-black text-slate-900 mb-1">+183,645</div>
+                    <div className="text-4xl font-black text-slate-900 mb-1">+139,845</div>
                     <div className="text-xs font-bold text-slate-500 uppercase tracking-wide">Additional Signups</div>
                     <p className="text-xs text-slate-400 mt-2">Contributed +15% total lift</p>
                 </div>
